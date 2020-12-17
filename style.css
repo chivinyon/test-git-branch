@@ -1,10 +1,37 @@
-#main_div{
-	background-color:#2196f394;
-	margin-left: 250px;
-	margin-right: 250px;
-	padding-left: 100px;
-	padding-right: 100px;
-	padding-bottom: 20px;
-	padding-bottom: 20px;
-	padding-bottom: 20px;
+body{
+	background-color: green;
+	margin-top: 200px;
 }
+
+.container{
+	width: 350px;
+	 background-color: white;
+	 padding: 20px;
+	 border-radius: 4px;
+	 margin: 0 auto;
+	 text-align: center;
+ }
+	
+ input[type=text]{
+	width: 100%;
+	padding: 12px;
+	border-radius: 4px;
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+	background-color: #8B989B;
+ }
+ input[type=submit]{
+              
+	border: none;
+	border-radius: 4px;
+	 width: 100%;
+	 padding: 14px;
+	 background-color: green;
+	 color: aliceblue;
+	 cursor: pointer;
+   }
+   input[type=submit]:hover{
+	   background-color: orange;
+   }
+   
+   
