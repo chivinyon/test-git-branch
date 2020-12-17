@@ -1,10 +1,30 @@
-#main_div{
-	background-color:#2196f394;
-	margin-left: 250px;
-	margin-right: 250px;
-	padding-left: 100px;
-	padding-right: 100px;
-	padding-bottom: 20px;
-	padding-bottom: 20px;
-	padding-bottom: 20px;
+body{
+	background-color: rgb(71, 163, 71);
+}
+.form_login{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 350px;
+	transform: translate(-50%,-50%);
+	background-color: white;
+}
+input{
+	background-color: lightgray;
+	width: 80%;
+	padding: 15px;
+	margin: 5px;
+	margin-bottom: 10px;
+	border: none;
+	border-radius:0;
+}
+input[type="button"]{
+	width: 89%;
+	background-color: green;
+	color: white;
+	font-weight: bold;
+}
+form+p{
+	color: lightgray;
+	margin-bottom: 30px;
 }
