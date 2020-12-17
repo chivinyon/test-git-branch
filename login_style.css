@@ -1,6 +1,6 @@
 
 body{
-	background-color: #1ab970;
+	background-image: linear-gradient(to right, #31da59, #17b375);
 	margin-top: 150px;
 }
 h1,p{
@@ -26,7 +26,7 @@ input{
 button{
 	width: 290px;
 	height: 50px;
-	background-color: #1ab970;
+	background-image: linear-gradient(to right, #31da59, #17b375);
 	color: #e6e3e3d9;
 	border: none;
 	font-size: 16px;
