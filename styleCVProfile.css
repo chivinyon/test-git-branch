@@ -1,0 +1,89 @@
+body{
+	background-color: black;
+}
+.container{
+	width: 840px;
+	height: 10px;
+	margin: auto;
+}
+.profile{
+	width:400px;
+	height: 1000px;
+	float: left;
+	background-color: #323a65;
+}
+.profile h1{
+	text-align: center;
+	font-family: arial;
+	padding: 0;
+	margin: 0;
+}
+.profile p{
+	text-align: center;
+	color: #87908e;
+	font-family: arial;
+	padding: 0;
+	margin: 0;
+}
+.profile .image{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	border: 3px solid #942727;
+	margin-left: 93px;
+	margin-top: 50px;
+}
+.profile h2{
+	margin-left: 40px;
+	font-family: arial;	
+	margin-bottom: 10px;
+}
+.profile table{
+	margin-left: 40px;
+}
+.profile table tr td{
+	color: #87908e;
+	font-family: arial;
+}
+hr.s{
+	border: none;
+	height: 5px;
+	width: 180px;
+	border-radius: 10px;
+	background-color: black;
+}
+/*------------------------*/
+.contain{
+	width: 440px;
+	height: 1000px;
+	float: left;
+	background-color: white;
+}
+.contain p{
+	color: #87908e;
+	font-family: arial;
+	padding-left: 40px;
+}
+.contain .image{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	border: 3px solid red;
+	margin-left: 93px;
+	margin-top: 50px;
+}
+.contain h2{
+	padding-left: 40px;
+	font-family: arial;	
+	margin-bottom: 10px;
+}
+.contain table{
+	margin-left: 40px;
+}
+.contain table tr td{
+	color: #87908e;
+	font-family: arial;
+}
+.contain .we p{
+	margin: 0;
+}
