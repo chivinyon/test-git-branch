@@ -1,0 +1,129 @@
+body{
+    margin: auto;
+    padding: 0;
+    background-color: black;
+}
+.container{
+    margin: auto;
+    width: 800px;
+    height: 1000px;
+    background-color: white;
+}
+.box1{
+    width: 45%;
+    height: 100%;
+    float: left;
+}
+.box2{
+    width: 55%;
+    height: 100%;
+    float: left;
+}
+.block{
+    width: 100%;
+    height: 30%;
+    color: white;
+}
+
+.image{
+    width: 100%;
+    height: 100%;
+    float: left;
+}
+.image img{
+    width: 50%;
+    height: 85%;
+    border-radius: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5%;
+    border: 5px solid orangered;
+    float: left;
+}
+.image ,h1{
+    width: 100%;
+    height: 25%;
+    text-align: center;
+    padding: 0;
+    line-height: 0px;
+    box-sizing: border-box;
+    float: left;
+}
+h4{
+    width: 100%;
+    height: 25%;
+    text-align: center;
+    margin-top: -20%;
+    padding: 0;
+    box-sizing: border-box;
+    float: left;
+}
+.block1{
+    width: 100%;
+    height: 16%;
+    padding: 0px;
+    color: white;
+    float: left;
+}
+table{
+    padding: 0%;
+}
+.box2 .block2{
+    width: 100%;
+    height: 13%;
+    padding: 10px;
+    color: black;
+    float: left;
+    margin: 0;
+}
+.box2 .block3{
+    width: 100%;
+    height: 18%;
+    padding: 10px;
+    color: black;
+    float: left;
+    margin-top: 25%;
+}
+hr{
+    width: 180px;
+    height: 5px;
+    border-radius: 5px;
+    background-color: orangered;
+}
+
+
+
+
+/* 
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h3,p{
+    text-align: center;
+    color: white;
+}
+.content{
+    width: 60%;
+    height: 100%;
+    background-color: yellow;
+    margin: auto;
+}
+.profile{
+    width: 40%;
+    height: 200px;
+    background-color: #151B54;
+    float: left;
+}
+.profile img{
+    height: 120px;
+    width: 120px;
+    border-radius: 100px;
+    margin-top: 20px;
+    margin-left: 35%;
+    margin-right: 5%;
+    display: flex;
+    border: 5px solid orangered;
+} */
